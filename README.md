@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi, I'm Ngakan!
+
 
 <!--
 **ngakanady12/ngakanady12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Software Engineering | Web Development 
+📈 On a journey to master Software Engineering principles. 
+🚀 Building project that solve real-world problems.
+📍Based in Bali
+# Mode on Menyala
