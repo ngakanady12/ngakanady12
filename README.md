@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Ngakan!
 # I'm Engineering
 
-![p](img/github-header-1.jpg)
 Berikan saya segelas matcha dan spotify akan ku selesaikan tugas dan project itu dalam semalaman
 -Mha Ha Sieg Ma-
 
