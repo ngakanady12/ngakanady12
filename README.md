@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ngakan!
 # I'm Engineering
-![Ngakan Ady](asset/github-header-banner.png)
+![Ngakan Ady](asset/github-header-banner-1.png)
 Berikan saya segelas matcha dan spotify 
 akan ku selesaikan tugas dan project itu 
 dalam semalaman
