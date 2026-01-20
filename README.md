@@ -20,7 +20,7 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 
 
 ### 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,py,react,cpp,php,mysql,notion,arduino,gitlab,vscode,git,github,firebase,gcp,powershell,windows,figma,docker,blender,cloudflare&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,cpp,php,mysql,notion,arduino,gitlab,vscode,git,github,firebase,gcp,powershell,windows,figma,docker,blender,cloudflare&perline=7)](https://skillicons.dev)
 
 ### My Github Stats
 ![Ngakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngakan&show_icons=true&theme=radical)
