@@ -4,12 +4,19 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 -Mha Ha Sieg Ma-
 
 
-###
+### 🚀Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngakan/ngakan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngakan/ngakan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ngakan/ngakan/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
 
-###### 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,notion,arduino,gitlab,react,vscode,git,github,firebase,gcp,mysql,powershell,windows,&perline=6)](https://skillicons.dev)
 
-###
+### 🧰 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,notion,arduino,gitlab,react,vscode,git,github,firebase,gcp,mysql,powershell,windows,figma,docker,blender,cloudflare,cpp,nodejs,php&perline=7)](https://skillicons.dev)
+
+### My Github Stats
+![Ngakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngakan&show_icons=true&theme=radical)
