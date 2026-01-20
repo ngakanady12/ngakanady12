@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Ngakan!
-I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently studying Computer Engineering at Warmadewa University. I'm passionate about building real-world solutions and mastering software engineering principles to create efficient, scalable applications—fun fact: Google it.
+I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently studying Computer Engineering at Warmadewa University. I'm passionate about building real-world solutions and mastering software engineering principles to create efficient, scalable applications—fun fact: Idk, Google it.
 
 -Mha Ha Sieg Ma-
 
