@@ -26,7 +26,7 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 ![Ngakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngakan&show_icons=true&theme=radical)
 
 ###
-
+![Ngakan Ady](asset/cat.jpeg)
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
