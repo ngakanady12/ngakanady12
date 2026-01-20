@@ -23,7 +23,9 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,cpp,php,mysql,notion,arduino,gitlab,vscode,git,github,firebase,gcp,powershell,windows,figma,docker,blender,cloudflare&perline=7)](https://skillicons.dev)
 
 ### My Github Stats
-![Ngakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngakan&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=ngakanady12&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ngakanady12&theme=radical&hide_border=false)<br/>
+
 
 ###
 ![Ngakan Ady](asset/cat.jpeg)
