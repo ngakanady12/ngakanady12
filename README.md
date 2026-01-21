@@ -14,7 +14,7 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src=https://open.spotify.com/user/317a4rxpp3ulicarbhm3cniujjhe?si=d7535366c4dc4ae1 alt="Spotify recently played"  />
 </div>
 
 
