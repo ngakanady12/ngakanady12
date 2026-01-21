@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Ngakan!
-I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently studying Computer Engineering at Warmadewa University. I'm passionate about building real-world solutions and mastering software engineering principles to create efficient, scalable applications—fun fact: Idk, Google it.
+I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently studying Computer Engineering at Warmadewa University. I'm passionate about building real-world solutions and mastering software engineering principles to create efficient, scalable applications.
 
 -Mha Ha Sieg Ma-
 
 
 ### 🚀Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngakan/ngakan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ngakanady12/ngakanady12/ngakanady12/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset=https://github.com/ngakanady12/ngakanady12/ngakanady12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://github.com/ngakanady12/ngakanady12/ngakanady12/output/pacman-contribution-graph.svg">
 </picture>
