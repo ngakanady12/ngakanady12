@@ -17,7 +17,7 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 
 <div align="center">
   <a href="https://open.spotify.com/user/Ngakanputu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ngakanputu&count=10" alt="Spotify recently played"  />
+    <img src=ngkadyputu@gmail.com&count=10" alt="Spotify recently played"  />
   </a>
 </div>
 
