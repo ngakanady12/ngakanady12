@@ -13,9 +13,14 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src=https://open.spotify.com/user/317a4rxpp3ulicarbhm3cniujjhe?si=d7535366c4dc4ae1 alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Ngakanputu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ngakanputu&count=10" alt="Spotify recently played"  />
+  </a>
 </div>
+
 
 
 
