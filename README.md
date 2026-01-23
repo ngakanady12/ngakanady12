@@ -25,7 +25,7 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 
 
 ### 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,cpp,php,mysql,notion,arduino,gitlab,vscode,git,github,firebase,gcp,powershell,windows,figma,docker,blender,cloudflare&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,notion,arduino,gitlab,vscode,git,github,firebase,gcp,powershell,windows,figma,docker,blender,cloudflare&perline=7)](https://skillicons.dev)
 
 ### My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=ngakanady12&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
