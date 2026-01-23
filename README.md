@@ -5,23 +5,6 @@ I'm a Junior Web and Software Engineer based in Bali, Indonesia, currently study
 
 
 ### 🚀Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ngakanady12/ngakanady12/ngakanady12/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset=https://github.com/ngakanady12/ngakanady12/ngakanady12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://github.com/ngakanady12/ngakanady12/ngakanady12/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Ngakanputu">
-    <img src=ngkadyputu@gmail.com&count=10" alt="Somebody's Pleasure (Extended Version)
-"  />
-  </a>
-</div>
-
 
 
 ### 🧰 Tech Stack
